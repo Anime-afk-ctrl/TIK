@@ -1,0 +1,6 @@
+{
+  "name": "HakWarga - Panduan Hak Hukum & Darurat Indonesia",
+  "description": "Aplikasi chatbot panduan hak hukum darurat bagi warga Indonesia untuk menghadapi pelanggaran HAM aparat dan korban kejahatan, dilengkapi Mode Panik dan skrip siap tunjuk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
